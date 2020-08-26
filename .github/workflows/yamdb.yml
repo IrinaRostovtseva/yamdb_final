@@ -23,7 +23,7 @@ jobs:
       run: flake8 . --exclude=test*.py,api/migrations/,users/migrations/,tests/
 
     - name: Test with pytest
-      run: pytest tests.py
+      run: pytest
   
   push_to_docker_hub:
     name: Push Docker image to Docker Hub
