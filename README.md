@@ -1,4 +1,4 @@
-https://github.com/IrinaRostovtseva/yamdb_final/workflows/Yamdb_final%20workflow/badge.svg
+![](https://github.com/IrinaRostovtseva/yamdb_final/workflows/Yamdb_final%20workflow/badge.svg)
 <!-- https://github.com/IrinaRostovtseva/yamdb_final/workflows/Yamdb_finalworkflow/badge.svg -->
 
 # **API YaMDb**
